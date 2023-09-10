@@ -49,3 +49,4 @@ Keep in mind that the available scripts and their functionality are defined in t
 If you encounter any issues during this process, please refer to the project's documentation or README for troubleshooting steps specific to the `fem-dictionary-web-app`.
 
 # English-Meaning_React
+# English_Dictionary-React
